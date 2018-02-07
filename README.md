@@ -15,7 +15,7 @@ Jie Guo (jig179@ucsd.edu)
 
 Taylor Hua (t5hua@ucsd.edu)
 
-Yuming Qiao y1qiao@ucsd.edu)
+Yuming Qiao (y1qiao@ucsd.edu)
 
 Yibo Zhou(yiz875@ucsd.edu)
 
