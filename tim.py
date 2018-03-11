@@ -97,5 +97,5 @@ class CrimeAnalysis:
 
 
 if __name__ == '__main__':
-    ca = CrimeAnalysis
+    ca = CrimeAnalysis()
     ca.fix_df()
