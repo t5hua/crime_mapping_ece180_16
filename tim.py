@@ -97,5 +97,9 @@ class CrimeAnalysis:
 
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     ca = CrimeAnalysis()
+=======
+    ca = CrimeAnalysis
+>>>>>>> 9b928f68fa75c2795d3e9941b5e564f97e2acc49
     ca.fix_df()
