@@ -6,6 +6,7 @@ Team Google Drive: https://drive.google.com/drive/folders/0AMeubTS-jFLNUk9PVA
 
 Project Proposal: https://docs.google.com/document/d/1UtKciby-fdDKbxLnwJd16B53H-rmIwRrd3GxfNjgwjU/edit
 
+Slides: https://docs.google.com/presentation/d/1mu6mZf8CiihMVena3vdOUeJL2O1nJScG__FXqJJ-GL0/edit#slide=id.g1f87997393_0_782
 
 Members:
 -----
